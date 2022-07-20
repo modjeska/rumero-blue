@@ -24,7 +24,7 @@
 
     ## [Heroku](#table-of-contents)
 
-   (https://note-taker-modjeska.herokuapp.com/)
+    https://note-taker-modjeska.herokuapp.com/
   
     ## [Installation](#table-of-contents)
   
